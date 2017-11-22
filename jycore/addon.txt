@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"JYCore"
+	"version"		"0.1.0"
+	"up_date"		"20/11/2017"
+	"author_name"	"Jono Young"
+	"author_email"	"jono@jyoung.co"
+	"author_url"	"jyoung.co"
+	"info"			"A menu system on GMod re-released for public use. Can serve as a good base."
+}
